@@ -19,6 +19,9 @@ It also features a user-friendly and responsive design.Created fullstack project
 
 # Preview 📹
 
+
+
+
 # Contact 📧
 - gunaydinsemra34@gmail.com
 - semra.gunaydinwork@outlook.com
