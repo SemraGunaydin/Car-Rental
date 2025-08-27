@@ -1,0 +1,8 @@
+# Backend environment file
+server/.env
+
+# Frontend environment file
+client/.env
+
+# Node.js paketleri
+node_modules/
